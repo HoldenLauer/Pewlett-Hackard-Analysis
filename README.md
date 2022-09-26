@@ -10,8 +10,11 @@ The purpose of the project was to use SQL to determine the number of employees e
 ## Summary
 According to the analysis of the data provided in the CSV files, there may be as many as 90,398 employees retiring within the next year. This is a very large number of vacancies to fill; however, Pewlett Hackard may be able to save some time and money in the long run by conducting a review of needed roles and positions. Without that review by the company it's hard to calculate the amount of roles needed to be refilled.
 There are 1549 "qualified, retirement-ready employees" for the mentorship program. However, without knowing how many locations these employees are spread over, it's hard to begin to design such a project. Location information was, unfortunately, not included in the original CSVs. Also, the emplolyees would need to be interviewed to see if they are right for the mentorship position.
+
 Two additional tables that could prove useful in preparing for the coming "Silver Tsunami" are as follows:
+
 ![retiring salary sum](https://user-images.githubusercontent.com/110861876/192391092-e9a7bf07-b258-4ff2-8c52-88402404903e.png)
 - A table showing the total salaries of all the retiring employees. The grand total is in the billions. As long as PH spends less than this on hiring replacements, it's saved money.
+
 ![retiring dept count](https://user-images.githubusercontent.com/110861876/192391161-328e5c3f-62d0-4d65-93fe-d3e8bf852e51.png)
 - A table showing how many employees are retiring by department, which indicates that Development and Production teams are going to see the biggest losses.
